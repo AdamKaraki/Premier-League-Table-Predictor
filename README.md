@@ -1,2 +1,2 @@
 # Premier-League-Table-Predictor
-Data Mining project to predict Premier League Rankings
+This is a Premier League Table Predictor that uses machine learning algorithms to predict the final standings of the English Premier League. It takes into account various factors such as past performance, player statistics, and team strengths to make its predictions. The model is trained on historical data and is constantly updated to reflect the current state of the league. The predictor is implemented in python and can be easily integrated into any application. The code is available on Github, and anyone can use it to predict the final standings of the Premier League.
